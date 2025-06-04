@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://files.catbox.moe/jaftc3.svg" width="420">
+  <img src="https://files.catbox.moe/8wgto6.svg" width="420">
 </p>
 <sub>pls give the Lution repo a star i'm broke lol</sub>
 
