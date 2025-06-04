@@ -64,7 +64,7 @@ Same structure applies for themes.
 #### Step 2: `info.json`
 
 This tells Lution the actual file paths for your mods/themes.
-**Example for themes (`Assets/Themes/info.json`):**
+**Example for mods (`Assets/Themes/info.json`):**
 
 ```json
 [
