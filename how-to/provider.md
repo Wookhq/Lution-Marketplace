@@ -86,7 +86,7 @@ This tells Lution the actual file paths for your mods/themes.
 
 ### 4. Make a pull request
 
-When you're done, go to **Marketplace Settings** and set your custom repo name (e.g. `YourUser/Lution-Marketplace`)
+When you're done, go to **Marketplace Settings** and set your marketplace provider name to your repo. (e.g. `YourUser/Lution-Marketplace`)
 
 ---
 
