@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/8wgto6.svg" width="420">
+  <img src="https://raw.githubusercontent.com/Lutionhq/Lution/refs/heads/main/src/Lution/files/lutiontext.svg" width="420">
 </p>
 <sub>pls give the Lution repo a star i'm broke lol</sub>
 
