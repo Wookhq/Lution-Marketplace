@@ -54,7 +54,7 @@ Example format:
 * `body`: Short description
 * `image`: Thumbnail image URL (GitHub, Catbox, etc.)
 * `button`: Just leave as "Download"
-* `creator`: Your name
+* `creator`: The creator of the mod
 * `sb`: Stability status (`stable`, `unstable`, or `unknown`)
 
 Same structure applies for themes.
