@@ -68,12 +68,7 @@ This tells Lution the actual file paths for your mods/themes.
 
 ```json
 [
-  { "name": "Better Default", "path": "Assets/Themes/Content/Better Default.zip" },
-  { "name": "RoldBlox", "path": "Assets/Themes/Content/RoldBlox.zip" },
-  { "name": "Content Deleted", "path": "Assets/Themes/Content/Content-Deleted.zip" },
-  { "name": "Blue star theme", "path": "Assets/Themes/Content/blue-star-theme.zip" },
-  { "name": "I337", "path": "Assets/Themes/Content/I337.zip" },
-  { "name": "Wayback 11", "path": "Assets/Themes/Content/wayback.zip" }
+  { "name": "My Mod", "path": "Assets/Mods/Content/mymods.zip" }
 ]
 ```
 
