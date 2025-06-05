@@ -5,5 +5,6 @@
     {"name" : "Blue star theme", "path": "Assets/Themes/Content/blue-star-theme.zip"},
     {"name" : "L337", "path": "Assets/Themes/Content/I337.zip"},
     {"name" : "Wayback 11", "path": "Assets/Themes/Content/wayback.zip"},
-    {"name" : "Serfore's Theme V2", "path": "Assets/Themes/Content/Serfore-theme.zip"}
+    {"name" : "Serfore's Theme V2", "path": "Assets/Themes/Content/Serfore-theme.zip"},
+    {"name" : "Old Shiny Menu", "path": "Assets/Themes/Content/OldShinyMenu.zip"}
 ]
