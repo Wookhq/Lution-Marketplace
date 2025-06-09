@@ -28,7 +28,10 @@ Click the **Fork** button at the top of the page to get started.
 
 ### 3. Make a pull request
 
-Once you're done, open a pull request and add the **Mods/Theme Request** label.  
+Once you're done, open a pull request and add the **Mods/Theme Request** label. 
+Also update the mod/theme then the newer roblox version come out! or the mod/theme will be marked as unstable.
+
+
 You can create one [here](https://github.com/triisdang/Lution-Marketplace/pulls)
 
 ----------
