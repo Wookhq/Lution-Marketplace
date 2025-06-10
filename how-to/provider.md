@@ -49,6 +49,7 @@ Example format:
     "image": "https://yourimage.com/image.png",
     "button": "Download",
     "creator": "you",
+    "version" : "version-xxxxxxxxxxxxxxxx",
     "sb": "unknown"
   }
 ]
@@ -60,7 +61,8 @@ Example format:
 * `body`: Short description
 * `image`: Thumbnail image URL (GitHub, Catbox, etc.)
 * `button`: Just leave as "Download"
-* `creator`: The creator of the mod
+* `creator`: The creator of the mod/theme
+* `version` : The version that compatible with the mod/theme
 * `sb`: Stability status (`stable`, `unstable`, or `unknown`)
 
 Same structure applies for themes.
