@@ -1,10 +1,21 @@
 [
-    {"name" : "Better Default","path": "Assets/Themes/Content/Better Default.zip"},
-    {"name" : "RoldBlox","path": "Assets/Themes/Content/RoldBlox.zip"},
-    {"name": "Content Deleted", "path": "Assets/Themes/Content/Content-Deleted.zip"},
-    {"name" : "Blue star theme", "path": "Assets/Themes/Content/blue-star-theme.zip"},
-    {"name" : "L337", "path": "Assets/Themes/Content/I337.zip"},
-    {"name" : "Wayback 11", "path": "Assets/Themes/Content/wayback.zip"},
-    {"name" : "Serfore's Theme V2", "path": "Assets/Themes/Content/Serfore-theme.zip"},
-    {"name" : "Old Shiny Menu", "path": "Assets/Themes/Content/OldShinyMenu.zip"}
+  {
+    "name": "Better Default",
+    "path": "Assets/Themes/Content/Better Default.zip"
+  },
+  {
+    "name": "Content Deleted",
+    "path": "Assets/Themes/Content/Content-Deleted.zip"
+  },
+  {
+    "name": "Blue star theme",
+    "path": "Assets/Themes/Content/blue-star-theme.zip"
+  },
+  { "name": "L337", "path": "Assets/Themes/Content/I337.zip" },
+  { "name": "Wayback 11", "path": "Assets/Themes/Content/wayback.zip" },
+  {
+    "name": "Serfore's Theme V2",
+    "path": "Assets/Themes/Content/Serfore-theme.zip"
+  },
+  { "name": "Old Shiny Menu", "path": "Assets/Themes/Content/OldShinyMenu.zip" }
 ]
