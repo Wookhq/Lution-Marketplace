@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/triisdang/Lution-Mods/refs/heads/main/Assets/thumbnails/LT_MARKETPLACE.svg" width="420">
+  <img src="https://raw.githubusercontent.com/triisdang/Lution-Mods/refs/heads/main/Assets/thumbnails/LT_MARKETPLACE2.svg" width="420">
 </p>
 <sub>pls give the Lution repo a star i'm broke lol</sub>
 
@@ -10,7 +10,7 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Lutionhq/Lution/refs/heads/latest/md/bar.png" style="width: 100%;">
 
 # Lution Docs
 
