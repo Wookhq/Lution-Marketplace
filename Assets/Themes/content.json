@@ -21,7 +21,8 @@
     "image": "https://raw.githubusercontent.com/triisdang/Lution-Mods/refs/heads/main/Assets/thumbnails/blue-star-theme.png",
     "button": "Download",
     "creator": "thefrenchguy4 on Gamebanana",
-    "sb": "unstable"
+    "sb": "unstable",
+    "version":"version-bef193a8f3d14d3c"
   },
   {
     "title": "L337",
@@ -48,3 +49,4 @@
     "sb": "stable"
   }
 ]
+
