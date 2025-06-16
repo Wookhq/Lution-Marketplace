@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/triisdang/Lution-Mods/refs/heads/main/Assets/thumbnails/LT_MARKETPLACE.svg" width="420">
+  <img src="https://raw.githubusercontent.com/triisdang/Lution-Mods/refs/heads/main/Assets/thumbnails/LT_MARKETPLACE2.svg" width="420">
 </p>
 <sub>pls give to the lution repo a star pls im brokie</sub>
 
@@ -9,7 +9,7 @@
 
 </div>
 
-----
+<img src="https://raw.githubusercontent.com/Lutionhq/Lution/refs/heads/latest/md/bar.png" style="width: 100%;">
 
 # How to Add Your Mod or Theme to the Lution Marketplace
 
@@ -34,4 +34,4 @@ Also update the mod/theme then the newer roblox version come out! or the mod/the
 
 You can create one [here](https://github.com/triisdang/Lution-Marketplace/pulls)
 
-----------
+<img src="https://raw.githubusercontent.com/Lutionhq/Lution/refs/heads/latest/md/bar.png" style="width: 100%;">

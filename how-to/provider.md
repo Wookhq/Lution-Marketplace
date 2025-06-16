@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/triisdang/Lution-Mods/refs/heads/main/Assets/thumbnails/LT_MARKETPLACE.svg" width="420">
+  <img src="https://raw.githubusercontent.com/triisdang/Lution-Mods/refs/heads/main/Assets/thumbnails/LT_MARKETPLACE2.svg" width="420">
 </p>
 <sub>pls give the Lution repo a star i'm broke lol</sub>
 
@@ -11,7 +11,7 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Lutionhq/Lution/refs/heads/latest/md/bar.png" style="width: 100%;">
 
 # How to Create Your Own Provider
 
@@ -25,7 +25,7 @@ Click the **Fork** button at the top of the page to get started.
 * Drop your **theme** files into: `Assets/Themes/Content/`
 * Make sure to include a thumbnail image too!
 
----
+<img src="https://raw.githubusercontent.com/Lutionhq/Lution/refs/heads/latest/md/bar.png" style="width: 100%;">
 
 ### 3. Update the config so Lution knows what to load
 
@@ -67,7 +67,7 @@ Example format:
 
 Same structure applies for themes.
 
----
+<img src="https://raw.githubusercontent.com/Lutionhq/Lution/refs/heads/latest/md/bar.png" style="width: 100%;">
 
 #### Step 2: `info.json`
 
@@ -85,11 +85,11 @@ This tells Lution the actual file paths for your mods/themes.
 * The `"name"` must match exactly with the `"title"` in `content.json`
 * The `"path"` is the full path to your `.zip` file in the repo
 
----
+<img src="https://raw.githubusercontent.com/Lutionhq/Lution/refs/heads/latest/md/bar.png" style="width: 100%;">
 
 ### 4. Config the Marketplace setting
 
 When you're done, go to **Marketplace Settings** and set your marketplace provider name to your repo. (e.g. `YourUser/Lution-Marketplace`)
 
----
+<img src="https://raw.githubusercontent.com/Lutionhq/Lution/refs/heads/latest/md/bar.png" style="width: 100%;">
 
