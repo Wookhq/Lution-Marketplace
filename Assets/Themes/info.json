@@ -17,5 +17,6 @@
     "name": "Serfore's Theme V2",
     "path": "Assets/Themes/Content/Serfore-theme.zip"
   },
-  { "name": "Old Shiny Menu", "path": "Assets/Themes/Content/OldShinyMenu.zip" }
+  { "name": "Old Shiny Menu", "path": "Assets/Themes/Content/OldShinyMenu.zip" },
+  { "name" : "[HEAVY] Ro2020", "path" : "Assets/Themes/Content/Ro2020.zip"}
 ]
