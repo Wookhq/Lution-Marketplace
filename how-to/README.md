@@ -12,15 +12,5 @@
 
 <img src="https://raw.githubusercontent.com/Lutionhq/Lution/refs/heads/latest/md/bar.png" style="width: 100%;">
 
-# Lution Docs
-
-Welcome to the Lution Docs!
-This is the main guide that links to everything you need.
-
-
-* [Add your mods to the repo](https://github.com/triisdang/Lution-Marketplace/blob/main/how-to/add.md)
-* [Create your own provider](https://github.com/triisdang/Lution-Marketplace/blob/main/how-to/provider.md)
-
-
-
+Please use https://wookhq.github.io/lution/pages/docs.html! these docs now outdated.
 
