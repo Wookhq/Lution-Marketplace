@@ -63,6 +63,14 @@
     "button": "Download",
     "creator": "GreenGrasst on Gamebanana",
     "sb": "stable"
+  },
+  {
+    "title": "Old Stuff",
+    "body": "A theme that revert all the ui to the old one (Old esc menu return!!!!)",
+    "image": "https://raw.githubusercontent.com/triisdang/Lution-Mods/refs/heads/main/Assets/thumbnails/Old-stuff.png",
+    "button": "Download",
+    "creator": "Uknown",
+    "sb": "unstable"
   }
 ]
 
