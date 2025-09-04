@@ -12,5 +12,5 @@
 
 <img src="https://raw.githubusercontent.com/Lutionhq/Lution/refs/heads/latest/md/bar.png" style="width: 100%;">
 
-Please use https://wookhq.github.io/lution/pages/docs.html! these docs now outdated.
+Please use https://lutiondocs.vercel.app! these docs now outdated.
 
