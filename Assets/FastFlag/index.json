@@ -13,6 +13,19 @@
     "install": "Assets/FastFlag/content/stoofUltra.json"
   },
   {
+    "title": "High Graphics",
+    "image": "https://raw.githubusercontent.com/Wookhq/Lution-marketplace/refs/heads/main/Assets/FastFlag/thumbnails/roofHigh.png",
+    "preview": {
+      "DFFlagTeleportClientAssetPreloadingEnabledIXP2": "True",
+      "DFFlagTeleportClientAssetPreloadingEnabledIXP": "True",
+      "DFFlagDebugAuroraAllowAdaptiveTimestepping": "True",
+      "DFFlagSim240hzWithConstraintLimitsEnabled2": "True"
+    },
+    "by" : "Stoof",
+    "desc": "Enhances graphics quality.",
+    "install": "Assets/FastFlag/content/stoofHigh.json"
+  },
+  {
     "title": "Potato Graphics",
     "image": "https://raw.githubusercontent.com/Wookhq/Lution-marketplace/refs/heads/main/Assets/FastFlag/thumbnails/roofPotato.png",
     "preview": {
