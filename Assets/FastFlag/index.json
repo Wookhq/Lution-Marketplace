@@ -26,6 +26,19 @@
     "install": "Assets/FastFlag/content/stoofHigh.json"
   },
   {
+    "title": "Balanced Graphics",
+    "image": "https://raw.githubusercontent.com/Wookhq/Lution-marketplace/refs/heads/main/Assets/FastFlag/thumbnails/roofBalanced.png",
+    "preview": {
+      "DFFlagTeleportClientAssetPreloadingDoingExperiment": "True",
+      "DFFlagOptimizeNoCollisionPrimitiveInMidphaseCrash": "True",
+      "DFFlagDebugSimAdaptiveIncreaseCollisionStiffness": "True",
+      "DFFlagTeleportClientAssetPreloadingEnabledIXP2": "True"
+    },
+    "by" : "Stoof",
+    "desc": "A balance between performance and quality.",
+    "install": "Assets/FastFlag/content/stoofBalanced.json"
+  },
+  {
     "title": "Potato Graphics",
     "image": "https://raw.githubusercontent.com/Wookhq/Lution-marketplace/refs/heads/main/Assets/FastFlag/thumbnails/roofPotato.png",
     "preview": {
