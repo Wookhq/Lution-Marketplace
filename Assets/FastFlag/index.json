@@ -1,5 +1,18 @@
 [
   {
+    "title": "Ultra Graphics",
+    "image": "https://raw.githubusercontent.com/Wookhq/Lution-marketplace/refs/heads/main/Assets/FastFlag/thumbnails/roofUltra.png",
+    "preview": {
+      "DFFlagPolicyServiceReportDetailIsNotSubjectToChinaPolicies": "True",
+      "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
+      "DFFlagTeleportClientAssetPreloadingDoingExperiment2": "True",
+      "DFFlagTeleportClientAssetPreloadingDoingExperiment": "True"
+    },
+    "by" : "Stoof",
+    "desc": "Provides the highest quality.",
+    "install": "Assets/FastFlag/content/stoofUltra.json"
+  },
+  {
     "title": "Potato Graphics",
     "image": "https://raw.githubusercontent.com/Wookhq/Lution-marketplace/refs/heads/main/Assets/FastFlag/thumbnails/roofPotato.png",
     "preview": {
