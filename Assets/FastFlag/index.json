@@ -3,12 +3,12 @@
     "title": "Potato Graphics",
     "image": "https://placehold.co/600x400?text=Potato+Graphics",
     "preview": {
-    "DFFlagPolicyServiceReportDetailIsNotSubjectToChinaPolicies": "True",
-    "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
-    "DFFlagTeleportClientAssetPreloadingDoingExperiment2": "True",
-    "DFFlagTeleportClientAssetPreloadingDoingExperiment": "True"
+      "DFFlagPolicyServiceReportDetailIsNotSubjectToChinaPolicies": "True",
+      "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
+      "DFFlagTeleportClientAssetPreloadingDoingExperiment2": "True",
+      "DFFlagTeleportClientAssetPreloadingDoingExperiment": "True"
     },
     "desc": "Diminishes all quality for performance.",
-    "install" : "Assets/FastFlag/content/stoofPotato.json"
-  },
+    "install": "Assets/FastFlag/content/stoofPotato.json"
+  }
 ]
