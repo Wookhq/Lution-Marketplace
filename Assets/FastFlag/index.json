@@ -8,6 +8,7 @@
       "DFFlagTeleportClientAssetPreloadingDoingExperiment2": "True",
       "DFFlagTeleportClientAssetPreloadingDoingExperiment": "True"
     },
+    "by" : "Stoof",
     "desc": "Diminishes all quality for performance.",
     "install": "Assets/FastFlag/content/stoofPotato.json"
   }
