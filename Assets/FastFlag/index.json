@@ -54,10 +54,11 @@
   {
     "title": "Bymer's Personal list",
     "preview": {
-      "DFFlagPolicyServiceReportDetailIsNotSubjectToChinaPolicies": "True",
-      "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
-      "DFFlagTeleportClientAssetPreloadingDoingExperiment2": "True",
-      "DFFlagTeleportClientAssetPreloadingDoingExperiment": "True"
+      "DFFlagDebugSimAdaptiveEnable60HzHumanoids": "True",
+      "DFFlagEnableCollectiblesJsonStringWriter1": "True",
+      "DFFlagRenderLanczosUpsamplingNonRinging2": "True",
+      "DFFlagAssetPreloadingUrlVersionEnabled2": "True",
+      "DFFlagRenderSmootherStepUpsampling2": "True"
     },
     "by" : "Bymer",
     "desc": "bomer",
