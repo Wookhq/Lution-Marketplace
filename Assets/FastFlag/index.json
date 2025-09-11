@@ -8,7 +8,7 @@
       "DFFlagTeleportClientAssetPreloadingDoingExperiment2": "True",
       "DFFlagTeleportClientAssetPreloadingDoingExperiment": "True"
     },
-    "by" : "Stoof",
+    "by": "Stoof",
     "desc": "Provides the highest quality.",
     "install": "Assets/FastFlag/content/stoofUltra.json"
   },
@@ -21,7 +21,7 @@
       "DFFlagDebugAuroraAllowAdaptiveTimestepping": "True",
       "DFFlagSim240hzWithConstraintLimitsEnabled2": "True"
     },
-    "by" : "Stoof",
+    "by": "Stoof",
     "desc": "Enhances graphics quality.",
     "install": "Assets/FastFlag/content/stoofHigh.json"
   },
@@ -34,7 +34,7 @@
       "DFFlagDebugSimAdaptiveIncreaseCollisionStiffness": "True",
       "DFFlagTeleportClientAssetPreloadingEnabledIXP2": "True"
     },
-    "by" : "Stoof",
+    "by": "Stoof",
     "desc": "A balance between performance and quality.",
     "install": "Assets/FastFlag/content/stoofBalanced.json"
   },
@@ -47,7 +47,7 @@
       "DFFlagTeleportClientAssetPreloadingDoingExperiment2": "True",
       "DFFlagTeleportClientAssetPreloadingDoingExperiment": "True"
     },
-    "by" : "Stoof",
+    "by": "Stoof",
     "desc": "Diminishes all quality for performance.",
     "install": "Assets/FastFlag/content/stoofPotato.json"
   },
@@ -60,7 +60,7 @@
       "DFFlagAssetPreloadingUrlVersionEnabled2": "True",
       "DFFlagRenderSmootherStepUpsampling2": "True"
     },
-    "by" : "Bymer",
+    "by": "Bymer",
     "desc": "bomer",
     "install": "Assets/FastFlag/content/Bymerpersonal.json"
   }
