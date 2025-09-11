@@ -50,5 +50,17 @@
     "by" : "Stoof",
     "desc": "Diminishes all quality for performance.",
     "install": "Assets/FastFlag/content/stoofPotato.json"
+  },
+  {
+    "title": "Bymer's Personal list",
+    "preview": {
+      "DFFlagPolicyServiceReportDetailIsNotSubjectToChinaPolicies": "True",
+      "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
+      "DFFlagTeleportClientAssetPreloadingDoingExperiment2": "True",
+      "DFFlagTeleportClientAssetPreloadingDoingExperiment": "True"
+    },
+    "by" : "Bymer",
+    "desc": "bomer",
+    "install": "Assets/FastFlag/content/Bymerpersonal.json"
   }
 ]
