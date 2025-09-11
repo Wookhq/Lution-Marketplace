@@ -1,7 +1,6 @@
 {
   "metadata" : "stoof's Ultra Graphics",
   "fastflag" : {
-      "FFlagEnableDisplaySize9": false,
       "DFFlagPolicyServiceReportDetailIsNotSubjectToChinaPolicies": "True",
       "DFFlagPolicyServiceReportIsNotSubjectToChinaPolicies": "True",
       "DFFlagTeleportClientAssetPreloadingDoingExperiment2": "True",
